@@ -1,0 +1,4 @@
+- Original Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+- Explore multitude of machine learning techniques while also fine tuning its parameters.
+- The notebook also has graphical displays to further assist in the understanding of the dataset.
+- I am up for correction. Feel free to make any comments.
